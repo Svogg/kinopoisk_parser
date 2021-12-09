@@ -13,5 +13,5 @@
 
 # Attantion! 
 
-## This script has big disadvantage. It can't deal with yandex capthca. You need to pass capthca 6 times by yourself while the script works. You'll have 17 seconds to pass
-it right otherwise it will return an error.
+### This script has big disadvantage. It can't deal with yandex capthca. You need to pass capthca 6 times by yourself while the script works. You'll have 17 seconds to pass it right otherwise it will return an error.
+
